@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elFonTii
 - 👀 I’m interested in learn!
-- 🌱 I’m currently learning JS, Python and Unity C#
+- 🌱 I’m currently learning JavaScript, React.js, Python and Unity C#
 - 💞️ I’m looking to collaborate on my own projects.
 
 <!---
