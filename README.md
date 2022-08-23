@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @elFonTii
-- 👀 I’m interested in learn!
-- 🌱 I’m currently learning JavaScript, React.js, Python and Unity C#
-- 💞️ I’m looking to collaborate on my own projects.
+- 🌱 I’m currently learning Next.js with SSR based on React
+- 💞️ I’m currently working on some interesting projects
 
 <!---
 elFonTii/elFonTii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
